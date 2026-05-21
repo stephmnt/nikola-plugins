@@ -77,7 +77,7 @@ The selected theme is exposed as a `data-theme` attribute:
 
 ## Online example
 
-- The following website use the Github Metadata plugin : [stephmnt/datascience_portfolio](stephmnt.github.io/datascience_portfolio)
+- The following website use the Mermaid shortcode plugin : [stephmnt/datascience_portfolio](stephmnt.github.io/datascience_portfolio)
 
 ## Notes
 
